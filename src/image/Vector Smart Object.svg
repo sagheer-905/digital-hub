@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328.479" height="327.499" viewBox="0 0 328.479 327.499">
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(-5456.641 -3250.028)" opacity="0.88" style="isolation: isolate">
+    <g id="Group_230" data-name="Group 230" transform="translate(5458.641 3252.028)">
+      <g id="Group_228" data-name="Group 228">
+        <g id="Group_225" data-name="Group 225">
+          <g id="Group_221" data-name="Group 221">
+            <g id="Group_220" data-name="Group 220">
+              <rect id="Rectangle_153" data-name="Rectangle 153" width="40.56" height="40.543" transform="translate(283.918 141.056)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+              <rect id="Rectangle_154" data-name="Rectangle 154" width="40.56" height="40.543" transform="translate(0 141.056)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+              <rect id="Rectangle_155" data-name="Rectangle 155" width="40.56" height="40.543" transform="translate(141.959)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <path id="Path_480" data-name="Path 480" d="M5623.067,3294.506a141.981,141.981,0,0,0-120.214,120.164" transform="translate(-5481.107 -3273.614)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+            <path id="Path_481" data-name="Path 481" d="M5949.946,3414.669a141.98,141.98,0,0,0-120.213-120.164" transform="translate(-5647.214 -3273.614)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+          </g>
+          <g id="Group_224" data-name="Group 224" transform="translate(0 4.223)">
+            <g id="Group_222" data-name="Group 222">
+              <path id="Path_482" data-name="Path 482" d="M5489.061,3275.819a15.21,15.21,0,1,1-15.21-15.2A15.207,15.207,0,0,1,5489.061,3275.819Z" transform="translate(-5458.641 -3260.615)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+              <line id="Line_20" data-name="Line 20" x2="111.539" transform="translate(30.42 15.204)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <g id="Group_223" data-name="Group 223" transform="translate(182.519)">
+              <path id="Path_483" data-name="Path 483" d="M6056.51,3275.819a15.21,15.21,0,1,0,15.211-15.2A15.207,15.207,0,0,0,6056.51,3275.819Z" transform="translate(-5944.971 -3260.615)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+              <line id="Line_21" data-name="Line 21" x1="111.539" transform="translate(0 15.204)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_227" data-name="Group 227" transform="translate(86.19 59.97)">
+          <rect id="Rectangle_156" data-name="Rectangle 156" width="101.399" height="30.407" transform="translate(25.35 233.122)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+          <g id="Group_226" data-name="Group 226" transform="translate(55.769)">
+            <line id="Line_22" data-name="Line 22" y2="121.629" transform="translate(20.28)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+            <ellipse id="Ellipse_79" data-name="Ellipse 79" cx="20.28" cy="20.271" rx="20.28" ry="20.271" transform="translate(0 121.629)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+          </g>
+          <path id="Path_484" data-name="Path 484" d="M5720.068,3373.958h-20.28l-65.91,141.9,30.42,70.95v20.272h91.259v-20.272l30.42-70.95Z" transform="translate(-5633.879 -3373.958)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+      <g id="Group_229" data-name="Group 229" transform="translate(121.679 308.295)">
+        <line id="Line_23" data-name="Line 23" x2="35.49" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+        <line id="Line_24" data-name="Line 24" x2="10.14" transform="translate(45.63)" fill="none" stroke="#f1f1f1" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

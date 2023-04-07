@@ -1,0 +1,18 @@
+import React from 'react'
+import Header from '../HomeSection/Header'
+
+function Banner() {
+  return (
+    <div className='about_Banner'>
+        <Header/>
+      <div className='row'>
+        <div className='col-lg-6 col-md-12 p-5'>
+            <h1 className='mt-5'>About Web Digital Hub </h1>
+            <p>Web Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,</p>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default Banner
